@@ -1,2 +1,2 @@
 # py2excel_learn
-此项目为python学习如何操控excel的
+此项目为如何用python操控excel的学习项目
